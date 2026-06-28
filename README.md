@@ -29,7 +29,14 @@ python hangman_game.py
 
 ## 📷 Demo
 
-Screen recording of the game is available on my LinkedIn profile.
+A short screen recording demonstrating the functionality of the Hangman Game is available on my LinkedIn profile.
+
+🔗 Watch the Demo:
+https://www.linkedin.com/posts/sachin-venkatraman_codealpha-python-pythonprogramming-ugcPost-7476885283851051008-f7Gp/
+
+## 📌 Internship
+
+This project was developed as **Task 1** of the **CodeAlpha Python Programming Internship**.
 
 ## 👨‍💻 Author
 
