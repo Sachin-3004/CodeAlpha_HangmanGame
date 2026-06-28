@@ -24,7 +24,7 @@ A simple text-based Hangman Game developed using Python.
 3. Run:
 
 ```bash
-python hangman_game.py
+python Hangman Game.py
 ```
 
 ## 📷 Demo
